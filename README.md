@@ -1,6 +1,8 @@
 # Waifu_recongizer
 Waifu_recongizer implemented with TensorFlow object detection
 
+For a demo, please go here: https://colab.research.google.com/drive/1utgOBDNS797pHrqtebpr1aYrn8gXFNcV?usp=sharing
+
 The saved model is ready to be used for these five characters:
 
 *   Chino Chino
