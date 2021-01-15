@@ -5,7 +5,7 @@ For a demo, please go here: https://colab.research.google.com/drive/1utgOBDNS797
 
 The saved model is ready to be used for these five characters:
 
-*   Chino Chino
+*   Chino Kafuu
 *   Reimu Hakurei
 *   Mash Kyrielight
 *   Yui Hirasawa
